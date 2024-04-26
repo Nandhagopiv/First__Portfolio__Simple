@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.heading__home{
+    margin: 50px;
+    padding: 25px;
+    background-color: black;
+    color: white;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+.heading__home h1{
+    padding: 10px;
+}
+
+.heading__home h2{
+    padding: 10px;
+}
+
+.heading__home a button{
+    padding: 10px;
+    background-color: orangered;
+    color: white;
+}
+
+.heading__home a{
+    padding: 10px;
+}
+
+.about__home{
+    margin: 50px;
+}
+
+.about__home h1{
+    margin-bottom: 10px;
+}
+
+.int{
+    padding: 10px;
+    margin-right: 5px;
+    margin-left: 50px;
+    margin-bottom: 25px;
+    background-color: rgb(124, 114, 255);
+    border-radius: 10px;
+}
+
+.projects{
+    padding: 10px;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 25px;
+    background-color: rgb(251, 115, 65);
+    border-radius: 10px;
+}
+
+.intandproject__home{
+    display: flex;
+}
+
+.intandproject__home div h1{
+    margin: 10px;
+}
+
+.intandproject__home div h2{
+    margin: 10px;
+    font-size: 36px;
+}
+
+.intandproject__home div p{
+    margin: 10px;
+    font-weight: bolder;
+}
+
+.footer__home{
+    margin: 50px;
+    margin-top: 25px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.footer__home h4{
+    margin: 10px;
+}
+
+.footer__home a{
+    color: lightblue;
+}
+
+.contact{
+    margin: 50px;
+}
+
+.contact label,.contact input, .contact textarea{
+    margin: 5px;
+}
+
+.contact button{
+    margin-left: 5px;
+    padding: 10px;
+    background-color: orangered;
+    color: white;
+}
